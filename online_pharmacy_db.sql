@@ -74,3 +74,20 @@ INSERT INTO drugs (name, description, price, quantity_available) VALUES
 ('Paracetamol', 'Used to treat pain and fever.', 25.50, 100),
 ('Amoxicillin', 'Antibiotic used to treat infections.', 120.00, 50),
 ('Ibuprofen', 'Anti-inflammatory drug.', 75.00, 80);
+INSERT INTO drugs (name, description, price, quantity_available) VALUES
+('Paracetamol', 'Used to treat pain and fever.', 25.50, 100),
+('Amoxicillin', 'Antibiotic used to treat infections.', 120.00, 50),
+('Ibuprofen', 'Anti-inflammatory drug.', 75.00, 80),
+('Cetirizine', 'Antihistamine for allergies.', 45.00, 60),
+('Metformin', 'Used for type 2 diabetes.', 150.00, 40),
+('Atorvastatin', 'Lowers cholesterol.', 200.00, 35),
+('Azithromycin', 'Antibiotic for bacterial infections.', 180.00, 25),
+('Omeprazole', 'Reduces stomach acid, for ulcers/GERD.', 95.00, 70),
+('Amlodipine', 'Used for high blood pressure.', 110.00, 50),
+('Losartan', 'Treats high blood pressure and heart failure.', 130.00, 45),
+('Salbutamol', 'Inhaler for asthma.', 85.00, 30),
+('Prednisolone', 'Steroid for inflammation.', 160.00, 20),
+('Diclofenac', 'Pain reliever and anti-inflammatory.', 90.00, 65),
+('Clopidogrel', 'Prevents blood clots.', 210.00, 25),
+('Insulin', 'Used for diabetes treatment.', 500.00, 15);
+
