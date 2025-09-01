@@ -74,7 +74,6 @@ INSERT INTO drugs (name, description, price, quantity_available) VALUES
 ('Paracetamol', 'Used to treat pain and fever.', 25.50, 100),
 ('Amoxicillin', 'Antibiotic used to treat infections.', 120.00, 50),
 ('Ibuprofen', 'Anti-inflammatory drug.', 75.00, 80);
-INSERT INTO drugs (name, description, price, quantity_available) VALUES
 ('Paracetamol', 'Used to treat pain and fever.', 25.50, 100),
 ('Amoxicillin', 'Antibiotic used to treat infections.', 120.00, 50),
 ('Ibuprofen', 'Anti-inflammatory drug.', 75.00, 80),
